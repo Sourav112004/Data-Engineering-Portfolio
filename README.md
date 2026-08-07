@@ -6,7 +6,7 @@ This repository documents my learning journey into data engineering — hands-on
 
 | Project | Description | Status |
 |---|---|---|
-| [ETL-JSON-to-MySQL](./ETL-JSON-to-MySQL) | Extract, transform, and load JSON data into a MySQL database | In Progress |
+| [ETL-JSON-to-MySQL](./ETL-JSON-to-MySQL) | Extract, transform, and load JSON data into a MySQL database | Completed |
 | [CSV-to-MySQL-Pipeline](./CSV-to-MySQL-Pipeline) | Pipeline for cleaning and loading CSV data into MySQL | In Progress |
 | [Airflow-ETL](./Airflow-ETL) | ETL workflow orchestration using Apache Airflow | In Progress |
 | [Azure-DataFactory-Pipeline](./Azure-DataFactory-Pipeline) | Cloud ETL pipeline built with Azure Data Factory | In Progress |
