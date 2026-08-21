@@ -1,0 +1,21 @@
+2026-08-19 02:57:40,647 - Main - INFO - ETL Started
+2026-08-19 02:57:40,648 - Extract - INFO - Starting Extraction!
+2026-08-19 02:57:40,672 - Extract - INFO - 12180 rows extracted
+2026-08-19 02:57:40,672 - Uncleaned_Data_validation - INFO - Starting Validation of 12180 Records
+2026-08-19 02:57:40,700 - Transform - INFO - CSV Loaded Succesfully
+2026-08-19 02:57:40,701 - Transform - INFO - 12180 Rows ,13 Columns Loaded!
+2026-08-19 02:57:40,701 - Transform - INFO - Starting Transformation
+2026-08-19 02:57:40,701 - Transform - INFO - rows before removing duplicates:12180
+2026-08-19 02:57:40,709 - Transform - INFO - rows after removing duplicates:12000
+2026-08-19 02:57:40,709 - Transform - INFO - Nulls Before:722
+2026-08-19 02:57:40,709 - Transform - INFO - Nulls After:0
+2026-08-19 02:57:40,710 - Transform - INFO - Before Changing: 494 Nulls
+2026-08-19 02:57:40,711 - Transform - INFO - After Changing: 494 Unknown
+2026-08-19 02:57:40,880 - Transform - INFO - Invalid Values: 0
+2026-08-19 02:57:40,882 - Transform - INFO - Invalid Quantity: 186
+2026-08-19 02:57:40,888 - Transform - INFO - Invalid Quantity After: 0
+2026-08-19 02:57:40,901 - Transform - INFO - Saving processed CSV...
+2026-08-19 02:57:40,949 - Transform - INFO - Processed CSV saved successfully.
+2026-08-19 02:57:40,980 - Load - INFO - Starting Load!
+2026-08-19 02:57:44,198 - Load - INFO - Loaded Data Onto Mysql:11814 Records Inserted
+2026-08-19 02:57:44,198 - Main - INFO - ETL Completed
