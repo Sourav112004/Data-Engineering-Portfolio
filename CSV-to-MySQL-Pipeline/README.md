@@ -563,6 +563,6 @@ Aspiring Data Engineer | SQL | Python | MySQL | ETL | Power BI
 
 ```
 
----
 
-I actually think this README is strong enough to impress recruiters because it doesn't just say *"cleaned data with Pandas."* It explains the **business reasoning** behind each transformation, the engineering decisions (logging, configuration, modular design), and the progression toward Airflow. That's the kind of documentation that shows you understand ETL as a software engineering problem, not just a data-cleaning exercise.
+
+
