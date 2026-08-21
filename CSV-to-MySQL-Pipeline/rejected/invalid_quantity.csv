@@ -1,0 +1,187 @@
+Order_ID,Customer_ID,Order_Date,Product_Category,Product_Name,Quantity,Unit_Price_USD,Discount_Percent,Payment_Method,Shipping_City,Country,Order_Status,Customer_Rating
+ORD006541,CUST02024,2024-08-11,Fashion,Running Shoes,-1,79.88,15.0,Credit Card,Montreal,Canada,Returned,
+ORD007225,CUST00439,2025-03-12,Sports,Dumbbell Set,0,27.32,5.0,Upi,Birmingham,U.K.,Delivered,4.0
+ORD000653,CUST03243,2024-11-28,Fashion,Sunglasses,-1,83.03,0.0,Paypal,Brisbane,Australia,Delivered,4.0
+ORD008111,CUST01212,2024-07-06,Sports,Yoga Mat,0,99.03,0.0,Net Banking,Los Angeles,usa,Delivered,4.0
+ORD010769,CUST00449,2025-03-07,Electronics,Smartwatch,-1,186.96,20.0,Debit Card,London,UK,Delivered,4.0
+ORD004691,CUST00070,2024-07-28,Home & Kitchen,Storage Organizer,-1,144.25,10.0,Net Banking,Berlin,DE,Pending,
+ORD011689,CUST01946,2024-05-13,Home & Kitchen,LED Desk Lamp,-1,17.59,20.0,Credit Card,Bengaluru,India,Delivered,
+ORD007890,CUST01583,2025-11-15,Sports,Football,0,16.31,10.0,Net Banking,Vancouver,CA,Delivered,4.0
+ORD011724,CUST01173,2026-05-06,Sports,Cycling Helmet,-1,92.27,0.0,Upi,London,UK,Delivered,5.0
+ORD003026,CUST01987,2024-06-20,Sports,Yoga Mat,0,15.65,5.0,Upi,Houston,U.S.A,Returned,
+ORD003507,CUST00786,2024-06-22,Toys,Puzzle 1000pc,-1,82.15,20.0,Cash On Delivery,Birmingham,U.K.,Pending,
+ORD005720,CUST00164,2026-05-24,Grocery,Green Tea Pack,0,4.64,5.0,Credit Card,Manchester,UK,Delivered,2.0
+ORD009349,CUST02515,2024-07-06,Beauty,Hair Dryer,0,27.17,10.0,Cash On Delivery,Abu Dhabi,uae,Returned,
+ORD000199,CUST01447,2025-11-15,Electronics,Webcam,-1,97.38,10.0,Paypal,Unknown,germany,Delivered,5.0
+ORD002804,CUST00276,2025-09-05,Sports,Dumbbell Set,-1,140.65,10.0,Upi,Hamburg,germany,Delivered,2.0
+ORD006912,CUST03396,2024-01-10,Home & Kitchen,Ceramic Mug Set,-1,172.15,15.0,Debit Card,Brisbane,australia,Delivered,4.0
+ORD007650,CUST02892,2025-02-25,Toys,Remote Control Car,-1,25.14,0.0,Upi,Montreal,canada,Delivered,4.0
+ORD003734,CUST03375,2026-04-03,Home & Kitchen,Air Fryer,-1,97.85,10.0,Cash On Delivery,Sydney,australia,Returned,
+ORD009863,CUST00507,2025-04-02,Grocery,Olive Oil 1L,0,5.68,0.0,Cod,Delhi,india,Delivered,
+ORD009219,CUST01529,2024-03-14,Electronics,Smartwatch,-1,53.68,5.0,Credit Card,Delhi,India,Shipped,
+ORD000231,CUST01388,2025-04-25,Fashion,Hoodie,-1,40.75,10.0,Cash On Delivery,Manchester,U.K.,Delivered,4.0
+ORD004928,CUST02363,2025-07-03,Fashion,Denim Jacket,0,55.07,10.0,Debit Card,Dubai,U.A.E,Pending,
+ORD011643,CUST00166,2025-01-09,Fashion,Leather Wallet,0,21.42,0.0,Net Banking,London,uk,Shipped,
+ORD004322,CUST00386,2024-03-23,Electronics,Gaming Mouse,0,144.63,0.0,Credit Card,Melbourne,Australia,Returned,
+ORD005014,CUST02690,2024-08-24,Home & Kitchen,Air Fryer,-1,93.7,0.0,Credit Card,Abu Dhabi,U.A.E,Shipped,
+ORD001949,CUST02596,2025-08-27,Sports,Football,0,118.09,0.0,Debit Card,Vancouver,canada,Shipped,
+ORD004576,CUST03192,2026-02-06,Sports,Cricket Bat,-1,110.97,0.0,Net Banking,Hyderabad,India,Delivered,5.0
+ORD001913,CUST02398,2025-07-29,Fashion,Backpack,-1,112.81,10.0,Debit Card,Manchester,United Kingdom,Delivered,2.0
+ORD011915,CUST02612,2025-09-18,Grocery,Almonds 500g,-1,20.13,20.0,Cod,Munich,DE,Pending,
+ORD007478,CUST01779,2024-03-24,Toys,Action Figure,-1,9.46,20.0,Debit Card,Delhi,india,Delivered,3.0
+ORD003036,CUST01017,2025-04-21,Grocery,Green Tea Pack,-1,12.6,0.0,Net Banking,Dubai,U.A.E,Delivered,2.0
+ORD008006,CUST02755,2025-09-07,Grocery,Almonds 500g,-1,9.39,10.0,Net Banking,Munich,Germany,Shipped,
+ORD009129,CUST01440,2025-07-04,Toys,Puzzle 1000pc,0,83.31,0.0,Net Banking,Birmingham,uk,Delivered,5.0
+ORD000255,CUST03316,2026-06-07,Books,Self-Help Book,0,12.14,0.0,Upi,Chicago,U.S.A,Pending,
+ORD003375,CUST00494,2025-11-18,Fashion,Running Shoes,-1,59.01,0.0,Net Banking,Berlin,germany,Delivered,4.0
+ORD010422,CUST00990,2025-05-19,Beauty,Shampoo,0,34.52,5.0,Net Banking,Hyderabad,India,Delivered,5.0
+ORD005245,CUST01067,2026-06-01,Electronics,Bluetooth Speaker,-1,238.14,0.0,Net Banking,Hyderabad,india,Delivered,5.0
+ORD010406,CUST03178,2025-08-09,Toys,Remote Control Car,0,28.02,5.0,Credit Card,Birmingham,UK,Delivered,5.0
+ORD001003,CUST02080,2024-03-02,Books,Self-Help Book,-1,5.26,0.0,Net Banking,Melbourne,AU,Delivered,5.0
+ORD001743,CUST02304,2025-10-30,Toys,Action Figure,0,41.37,5.0,Credit Card,Abu Dhabi,UAE,Delivered,4.0
+ORD004466,CUST01314,2024-09-17,Fashion,Backpack,0,26.63,25.0,Pay Pal,Abu Dhabi,uae,Delivered,5.0
+ORD003499,CUST01746,2026-03-14,Fashion,Cotton T-Shirt,-1,30.7,0.0,Cash On Delivery,Melbourne,AU,Shipped,
+ORD002418,CUST02164,2025-11-03,Fashion,Running Shoes,-1,86.84,0.0,Credit Card,Abu Dhabi,UAE,Pending,
+ORD004290,CUST03331,2026-06-12,Toys,Building Blocks Set,0,22.41,5.0,Pay Pal,Houston,United States,Returned,
+ORD006492,CUST01699,2025-02-27,Home & Kitchen,Blender,-1,157.44,20.0,Credit Card,Houston,United States,Delivered,3.0
+ORD001036,CUST02919,2026-05-25,Electronics,USB-C Cable,0,49.47,5.0,Debit Card,Montreal,Canada,Pending,
+ORD010892,CUST03279,2026-02-01,Electronics,Bluetooth Speaker,0,139.28,0.0,Debit Card,Berlin,germany,Delivered,4.0
+ORD003890,CUST01074,2024-09-10,Electronics,Laptop Stand,0,118.48,0.0,Upi,Birmingham,UK,Pending,
+ORD000755,CUST00987,2026-03-24,Toys,Building Blocks Set,-1,89.66,5.0,Debit Card,Berlin,DE,Delivered,1.0
+ORD008766,CUST01182,2024-09-11,Toys,Puzzle 1000pc,0,89.49,0.0,Cod,Dubai,U.A.E,Cancelled,
+ORD007448,CUST02300,2025-03-17,Grocery,Olive Oil 1L,-1,26.46,0.0,Net Banking,Los Angeles,usa,Delivered,5.0
+ORD006699,CUST01553,2024-02-02,Beauty,Sunscreen SPF50,-1,21.36,0.0,Net Banking,Dubai,U.A.E,Cancelled,
+ORD006079,CUST00849,2025-02-23,Grocery,Olive Oil 1L,-1,22.45,0.0,Cod,Delhi,india,Delivered,5.0
+ORD007044,CUST02188,2025-08-12,Beauty,Lipstick,0,37.5,15.0,Upi,Delhi,India,Delivered,4.0
+ORD007604,CUST01401,2024-09-02,Books,Fiction Novel,-1,20.82,5.0,Credit Card,Houston,U.S.A,Delivered,3.0
+ORD004207,CUST01268,2024-09-06,Home & Kitchen,Air Fryer,-1,21.43,15.0,Debit Card,Birmingham,UK,Delivered,
+ORD009529,CUST02526,2024-08-28,Home & Kitchen,Storage Organizer,-1,156.9,10.0,Upi,Birmingham,U.K.,Delivered,4.0
+ORD007810,CUST02308,2024-11-09,Books,Fiction Novel,-1,8.53,15.0,Debit Card,New York,usa,Delivered,4.0
+ORD010365,CUST01802,2024-01-12,Home & Kitchen,Non-Stick Pan,-1,143.52,15.0,Paypal,Los Angeles,US,Delivered,4.0
+ORD011304,CUST01361,2025-11-29,Books,Cookbook,-1,31.83,0.0,Credit Card,Melbourne,AU,Delivered,3.0
+ORD005621,CUST02721,2026-03-08,Books,Fiction Novel,0,20.42,10.0,Paypal,Dubai,U.A.E,Delivered,4.0
+ORD010089,CUST01076,2026-01-05,Books,Self-Help Book,-1,33.19,0.0,Debit Card,Los Angeles,U.S.A,Pending,
+ORD006510,CUST03016,2025-03-15,Sports,Cycling Helmet,-1,78.1,0.0,Net Banking,Hamburg,DE,Shipped,
+ORD009441,CUST02959,2024-11-22,Grocery,Olive Oil 1L,-1,29.52,10.0,Cod,Brisbane,AU,Cancelled,
+ORD006799,CUST01116,2024-08-07,Toys,Building Blocks Set,0,58.46,10.0,Credit Card,Unknown,Germany,Pending,
+ORD008759,CUST03192,2024-07-23,Toys,Action Figure,-1,39.14,5.0,Net Banking,Dubai,U.A.E,Delivered,
+ORD002538,CUST01459,2026-05-29,Fashion,Running Shoes,-1,46.21,15.0,Pay Pal,Abu Dhabi,U.A.E,Shipped,
+ORD000820,CUST03255,2025-08-01,Books,Cookbook,-1,37.65,10.0,Debit Card,Melbourne,australia,Pending,
+ORD010101,CUST02045,2025-09-23,Toys,Action Figure,-1,59.45,5.0,Credit Card,Manchester,uk,Pending,
+ORD004806,CUST00617,2024-02-11,Home & Kitchen,Air Fryer,-1,51.44,0.0,Net Banking,Bengaluru,India,Delivered,2.0
+ORD002814,CUST02142,2026-03-11,Fashion,Running Shoes,-1,93.54,0.0,Net Banking,Los Angeles,U.S.A,Delivered,4.0
+ORD008682,CUST00823,2026-01-15,Sports,Yoga Mat,-1,126.86,5.0,Upi,Munich,Germany,Shipped,
+ORD008971,CUST00350,2026-05-23,Home & Kitchen,Air Fryer,0,102.76,0.0,Net Banking,Sydney,AU,Delivered,3.0
+ORD002057,CUST02962,2025-12-02,Electronics,Laptop Stand,0,68.58,0.0,Net Banking,Toronto,Canada,Delivered,3.0
+ORD009664,CUST01350,2026-01-09,Home & Kitchen,Blender,-1,151.41,5.0,Credit Card,Toronto,CA,Delivered,4.0
+ORD004299,CUST00858,2024-03-28,Electronics,Power Bank,0,196.78,0.0,Net Banking,Los Angeles,usa,Delivered,4.0
+ORD009083,CUST01377,2026-11-02,Grocery,Olive Oil 1L,-1,16.03,10.0,Credit Card,Hamburg,germany,Cancelled,
+ORD000034,CUST01084,2024-09-25,Fashion,Hoodie,0,105.01,15.0,Debit Card,Delhi,IN,Delivered,3.0
+ORD010091,CUST02647,2026-06-20,Toys,Remote Control Car,-1,67.86,0.0,Cod,Hamburg,Germany,Shipped,
+ORD008172,CUST03340,2026-06-12,Books,Kids Storybook,0,34.4,20.0,Credit Card,Brisbane,australia,Delivered,4.0
+ORD010367,CUST03411,2025-09-15,Electronics,Webcam,-1,82.96,0.0,Net Banking,Manchester,uk,Delivered,5.0
+ORD008217,CUST01064,2024-09-04,Sports,Dumbbell Set,0,73.56,5.0,Debit Card,London,United Kingdom,Delivered,4.0
+ORD004365,CUST03256,2024-11-09,Toys,Building Blocks Set,-1,57.21,0.0,Debit Card,London,United Kingdom,Delivered,4.0
+ORD008731,CUST01738,2024-11-21,Books,Kids Storybook,0,11.44,15.0,Net Banking,Abu Dhabi,UAE,Delivered,3.0
+ORD002373,CUST00754,2025-06-25,Sports,Cycling Helmet,-1,65.51,0.0,Credit Card,Abu Dhabi,U.A.E,Delivered,5.0
+ORD009504,CUST00116,2025-09-02,Electronics,Wireless Earbuds,0,176.06,0.0,Cash On Delivery,New York,usa,Delivered,5.0
+ORD007402,CUST01390,2025-11-23,Fashion,Sunglasses,0,33.26,0.0,Upi,London,United Kingdom,Delivered,3.0
+ORD004351,CUST03286,2025-03-18,Grocery,Almonds 500g,0,14.09,10.0,Pay Pal,Hamburg,DE,Delivered,4.0
+ORD000711,CUST02234,2024-07-31,Books,Self-Help Book,-1,15.67,0.0,Credit Card,Birmingham,U.K.,Delivered,5.0
+ORD010661,CUST02772,2024-12-23,Toys,Puzzle 1000pc,-1,35.51,20.0,Upi,Manchester,U.K.,Returned,
+ORD011813,CUST02438,2026-01-29,Toys,Action Figure,0,85.2,0.0,Credit Card,Montreal,CA,Delivered,3.0
+ORD004780,CUST02165,2024-02-07,Books,Self-Help Book,0,32.11,10.0,Debit Card,Houston,U.S.A,Delivered,4.0
+ORD006272,CUST00665,2024-02-18,Grocery,Basmati Rice 5kg,0,7.9,0.0,Cash On Delivery,Houston,United States,Cancelled,
+ORD010989,CUST02306,2025-12-29,Books,Self-Help Book,-1,37.57,10.0,Paypal,Dubai,UAE,Delivered,5.0
+ORD002880,CUST02705,2024-07-31,Grocery,Basmati Rice 5kg,0,13.17,0.0,Paypal,Berlin,germany,Delivered,2.0
+ORD007637,CUST01225,2024-12-26,Home & Kitchen,Air Fryer,0,19.71,15.0,Credit Card,Abu Dhabi,uae,Delivered,5.0
+ORD004517,CUST00717,2024-06-12,Grocery,Basmati Rice 5kg,0,21.4,15.0,Upi,Birmingham,uk,Cancelled,
+ORD010488,CUST03058,2024-10-13,Grocery,Green Tea Pack,0,18.53,0.0,Cash On Delivery,Chicago,usa,Delivered,3.0
+ORD004741,CUST02957,2024-02-29,Books,Fiction Novel,0,39.33,0.0,Paypal,Houston,US,Cancelled,
+ORD003102,CUST00054,2024-10-23,Sports,Football,-1,68.11,0.0,Debit Card,Montreal,canada,Delivered,3.0
+ORD008652,CUST03018,2024-08-14,Beauty,Shampoo,0,44.69,5.0,Credit Card,Abu Dhabi,U.A.E,Delivered,5.0
+ORD004411,CUST02248,2025-03-18,Home & Kitchen,LED Desk Lamp,0,62.52,5.0,Debit Card,Dubai,uae,Pending,
+ORD003310,CUST01460,2024-02-04,Grocery,Almonds 500g,0,22.66,0.0,Paypal,Mumbai,IN,Delivered,5.0
+ORD009328,CUST02800,2025-11-28,Fashion,Hoodie,-1,52.66,5.0,Net Banking,Delhi,IN,Delivered,4.0
+ORD005157,CUST00029,2024-01-06,Books,Self-Help Book,0,37.41,15.0,Upi,Dubai,uae,Delivered,4.0
+ORD008452,CUST03264,2025-05-12,Home & Kitchen,LED Desk Lamp,-1,68.89,5.0,Credit Card,London,U.K.,Delivered,3.0
+ORD002712,CUST00101,2024-07-26,Home & Kitchen,Vacuum Cleaner,-1,148.33,20.0,Debit Card,Dubai,UAE,Pending,
+ORD010746,CUST02852,2025-03-29,Grocery,Basmati Rice 5kg,0,27.62,10.0,Upi,Dubai,U.A.E,Delivered,4.0
+ORD000039,CUST00646,2024-12-09,Sports,Football,0,24.96,0.0,Debit Card,Melbourne,australia,Delivered,3.0
+ORD004306,CUST00449,2024-10-18,Grocery,Almonds 500g,-1,15.98,5.0,Cod,Manchester,United Kingdom,Cancelled,
+ORD003382,CUST00887,2024-06-09,Grocery,Basmati Rice 5kg,-1,12.03,15.0,Debit Card,Mumbai,India,Shipped,
+ORD002213,CUST01072,2025-09-19,Home & Kitchen,Storage Organizer,0,101.25,15.0,Net Banking,Abu Dhabi,UAE,Delivered,4.0
+ORD011882,CUST02828,2025-09-12,Fashion,Denim Jacket,0,110.27,5.0,Paypal,Munich,Germany,Cancelled,
+ORD001681,CUST00717,2024-02-14,Electronics,Power Bank,0,204.88,0.0,Upi,Brisbane,australia,Delivered,5.0
+ORD009553,CUST03059,2026-06-21,Grocery,Green Tea Pack,-1,7.42,0.0,Paypal,Vancouver,Canada,Returned,
+ORD009086,CUST01345,2025-01-23,Books,Kids Storybook,-1,15.13,0.0,Paypal,Vancouver,CA,Cancelled,
+ORD009030,CUST01291,2024-01-03,Toys,Action Figure,0,44.97,0.0,Credit Card,Hamburg,Germany,Delivered,3.0
+ORD006748,CUST02040,2024-04-04,Sports,Football,-1,67.73,20.0,Paypal,Abu Dhabi,U.A.E,Cancelled,
+ORD008103,CUST00807,2026-05-08,Books,Fiction Novel,-1,36.62,5.0,Debit Card,Manchester,U.K.,Returned,
+ORD005149,CUST00701,2026-05-31,Beauty,Sunscreen SPF50,0,53.89,20.0,Debit Card,Berlin,Germany,Delivered,4.0
+ORD008690,CUST02931,2024-02-27,Fashion,Sunglasses,0,55.68,10.0,Paypal,Vancouver,Canada,Pending,
+ORD010191,CUST01791,2026-05-22,Beauty,Sunscreen SPF50,-1,58.08,10.0,Net Banking,London,uk,Pending,
+ORD004268,CUST01822,2026-03-18,Electronics,Gaming Mouse,-1,203.29,0.0,Upi,Abu Dhabi,uae,Shipped,
+ORD008470,CUST01874,2026-01-15,Grocery,Green Tea Pack,0,25.01,5.0,Upi,New York,usa,Delivered,5.0
+ORD004948,CUST02579,2024-08-12,Sports,Cricket Bat,0,52.19,5.0,Upi,Toronto,canada,Delivered,5.0
+ORD004881,CUST00770,2026-02-07,Beauty,Face Moisturizer,-1,15.69,10.0,Credit Card,Sydney,Australia,Pending,
+ORD006651,CUST02706,2025-05-25,Beauty,Face Moisturizer,0,57.73,15.0,Upi,Hyderabad,India,Pending,
+ORD006326,CUST00714,2026-01-29,Electronics,Gaming Mouse,0,139.85,0.0,Upi,Abu Dhabi,UAE,Pending,
+ORD000661,CUST03356,2024-11-27,Beauty,Sunscreen SPF50,0,33.45,0.0,Upi,Abu Dhabi,U.A.E,Shipped,
+ORD008928,CUST00771,2026-03-18,Grocery,Green Tea Pack,0,24.03,15.0,Pay Pal,Unknown,United Kingdom,Returned,
+ORD001099,CUST01336,2025-07-26,Electronics,Smartwatch,0,32.98,0.0,Net Banking,Houston,United States,Pending,
+ORD008224,CUST00155,2025-07-22,Sports,Yoga Mat,0,63.16,0.0,Upi,Montreal,Canada,Delivered,
+ORD008282,CUST02964,2025-05-01,Home & Kitchen,Ceramic Mug Set,0,157.07,10.0,Upi,New York,usa,Cancelled,
+ORD004498,CUST01022,2026-06-30,Books,Cookbook,0,8.29,0.0,Debit Card,Vancouver,CA,Delivered,4.0
+ORD006454,CUST01021,2025-03-14,Home & Kitchen,Storage Organizer,0,34.71,15.0,Upi,Dubai,uae,Delivered,3.0
+ORD007881,CUST01430,2025-05-25,Fashion,Formal Shirt,-1,24.24,5.0,Net Banking,Manchester,uk,Shipped,
+ORD004637,CUST00548,2025-06-26,Beauty,Lipstick,-1,45.9,20.0,Cash On Delivery,Toronto,canada,Returned,
+ORD005256,CUST01807,2026-02-13,Electronics,Wireless Earbuds,-1,20.73,25.0,Net Banking,Montreal,Canada,Pending,
+ORD004255,CUST01687,2026-06-21,Home & Kitchen,Storage Organizer,-1,53.76,5.0,Credit Card,Mumbai,IN,Delivered,3.0
+ORD002528,CUST00117,2024-10-08,Sports,Yoga Mat,-1,20.67,0.0,Cash On Delivery,Melbourne,Australia,Delivered,5.0
+ORD008143,CUST01315,2025-12-29,Grocery,Olive Oil 1L,-1,12.65,5.0,Paypal,Vancouver,Canada,Cancelled,
+ORD006663,CUST02468,2024-10-05,Books,Cookbook,-1,23.62,0.0,Paypal,Delhi,india,Delivered,4.0
+ORD000625,CUST01631,2026-06-21,Toys,Puzzle 1000pc,-1,77.07,20.0,Upi,Hyderabad,India,Returned,
+ORD008480,CUST02277,2024-12-07,Toys,Puzzle 1000pc,-1,68.93,5.0,Debit Card,Bengaluru,IN,Delivered,
+ORD009987,CUST02275,2024-01-17,Home & Kitchen,Blender,0,158.74,0.0,Net Banking,Toronto,Canada,Cancelled,
+ORD010356,CUST00226,2026-01-27,Electronics,Smartwatch,0,180.53,15.0,Cod,London,United Kingdom,Delivered,5.0
+ORD001406,CUST01138,2024-05-07,Toys,Building Blocks Set,-1,9.56,10.0,Debit Card,Abu Dhabi,UAE,Delivered,5.0
+ORD007499,CUST02673,2024-01-09,Toys,Puzzle 1000pc,0,75.02,15.0,Credit Card,New York,US,Returned,
+ORD002633,CUST00142,2026-04-03,Grocery,Green Tea Pack,-1,21.42,10.0,Debit Card,Dubai,UAE,Delivered,4.0
+ORD010959,CUST02054,2024-10-29,Beauty,Shampoo,-1,33.65,0.0,Paypal,Mumbai,india,Delivered,
+ORD011615,CUST02891,2024-09-26,Beauty,Shampoo,0,18.98,10.0,Debit Card,Chicago,USA,Cancelled,
+ORD002160,CUST02147,2025-02-27,Electronics,Smartwatch,-1,32.64,10.0,Net Banking,Manchester,UK,Returned,
+ORD009485,CUST03302,2025-05-02,Beauty,Perfume,0,47.45,15.0,Debit Card,Hyderabad,India,Delivered,4.0
+ORD009160,CUST00285,2025-01-31,Toys,Building Blocks Set,0,39.18,0.0,Credit Card,New York,U.S.A,Delivered,3.0
+ORD003646,CUST03470,2024-11-26,Books,Cookbook,-1,32.83,0.0,Credit Card,Abu Dhabi,uae,Delivered,5.0
+ORD007903,CUST00127,2024-07-06,Fashion,Sunglasses,0,70.5,10.0,Cod,Sydney,australia,Returned,
+ORD004291,CUST01071,2024-09-22,Home & Kitchen,Storage Organizer,0,90.61,10.0,Cod,Abu Dhabi,uae,Returned,
+ORD007502,CUST01633,2025-07-26,Grocery,Olive Oil 1L,-1,22.26,0.0,Credit Card,Sydney,AU,Cancelled,
+ORD004914,CUST00009,2026-06-05,Grocery,Olive Oil 1L,0,27.34,15.0,Upi,Hyderabad,india,Shipped,
+ORD010966,CUST00990,2024-08-14,Books,Fiction Novel,0,24.65,0.0,Pay Pal,Bengaluru,india,Delivered,5.0
+ORD004951,CUST03238,2025-09-28,Beauty,Hair Dryer,0,18.41,10.0,Cod,Delhi,india,Pending,
+ORD007658,CUST03134,2024-08-03,Grocery,Basmati Rice 5kg,0,14.5,0.0,Upi,Montreal,canada,Delivered,3.0
+ORD011825,CUST02808,2024-12-26,Home & Kitchen,Vacuum Cleaner,-1,162.96,0.0,Cash On Delivery,London,U.K.,Cancelled,
+ORD003544,CUST02388,2025-12-16,Books,Cookbook,0,9.1,15.0,Upi,Los Angeles,USA,Delivered,2.0
+ORD005105,CUST00483,2026-05-18,Fashion,Denim Jacket,-1,21.95,10.0,Cash On Delivery,Houston,US,Delivered,
+ORD003527,CUST01817,2025-02-23,Electronics,Power Bank,-1,241.19,5.0,Upi,Dubai,U.A.E,Delivered,1.0
+ORD009236,CUST02762,2025-05-21,Grocery,Basmati Rice 5kg,0,14.9,25.0,Upi,Vancouver,canada,Delivered,1.0
+ORD007386,CUST00945,2024-07-10,Grocery,Olive Oil 1L,-1,11.76,0.0,Upi,Chicago,United States,Delivered,4.0
+ORD003459,CUST01668,2025-06-04,Electronics,USB-C Cable,0,112.94,10.0,Net Banking,Mumbai,India,Delivered,4.0
+ORD008015,CUST02309,2026-03-22,Grocery,Green Tea Pack,0,18.42,5.0,Net Banking,Houston,US,Delivered,3.0
+ORD004776,CUST00988,2024-08-19,Grocery,Almonds 500g,-1,19.46,5.0,Net Banking,Delhi,India,Pending,
+ORD004347,CUST03110,2024-04-12,Books,Cookbook,0,9.48,15.0,Credit Card,Brisbane,Australia,Delivered,5.0
+ORD004187,CUST01104,2025-07-21,Home & Kitchen,Ceramic Mug Set,0,73.02,0.0,Upi,Berlin,germany,Returned,
+ORD001646,CUST01337,2024-07-09,Home & Kitchen,LED Desk Lamp,-1,58.45,10.0,Upi,London,U.K.,Shipped,
+ORD002443,CUST02867,2026-03-18,Books,Self-Help Book,-1,13.23,10.0,Cod,Mumbai,India,Pending,
+ORD004794,CUST02351,2025-07-29,Home & Kitchen,Blender,-1,137.01,5.0,Debit Card,Montreal,CA,Returned,
+ORD006412,CUST00823,2025-09-01,Sports,Cricket Bat,0,145.6,5.0,Cod,Bengaluru,IN,Delivered,5.0
+ORD003669,CUST01033,2025-08-08,Toys,Remote Control Car,0,27.39,15.0,Cash On Delivery,Berlin,Germany,Shipped,
+ORD009771,CUST02387,2024-03-03,Fashion,Denim Jacket,-1,48.49,5.0,Debit Card,Melbourne,australia,Shipped,
+ORD005630,CUST02716,2024-04-08,Electronics,Power Bank,-1,39.62,15.0,Cash On Delivery,Montreal,CA,Cancelled,
+ORD004344,CUST01396,2024-07-25,Home & Kitchen,Ceramic Mug Set,0,66.73,20.0,Paypal,Mumbai,india,Delivered,4.0
+ORD007397,CUST00764,2024-04-30,Beauty,Shampoo,-1,24.49,10.0,Cod,Mumbai,IN,Pending,
+ORD003542,CUST00215,2026-01-11,Grocery,Green Tea Pack,0,26.06,5.0,Net Banking,Berlin,germany,Shipped,
+ORD009023,CUST02594,2024-02-17,Home & Kitchen,Blender,0,126.25,10.0,Paypal,Birmingham,United Kingdom,Delivered,5.0
+ORD006503,CUST02234,2024-10-11,Toys,Building Blocks Set,-1,55.9,5.0,Paypal,Los Angeles,USA,Delivered,3.0
+ORD000610,CUST02638,2024-09-11,Books,Cookbook,0,35.01,0.0,Cash On Delivery,Mumbai,india,Delivered,4.0
